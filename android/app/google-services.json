@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191587132522",
+    "project_id": "tarea-2eb2a",
+    "storage_bucket": "tarea-2eb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191587132522:android:71e04cfc49fb52c606d613",
+        "android_client_info": {
+          "package_name": "com.example.clondevix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191587132522-u5e1qnvlntedllpl50m9j09l3an1if44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdp_z4bf8MW889l_4Rl68Ruui_HfPVWjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191587132522-u5e1qnvlntedllpl50m9j09l3an1if44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
